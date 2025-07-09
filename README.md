@@ -71,8 +71,8 @@ This project detects Halo Coronal Mass Ejection (CME) events using plasma parame
 
 | Image | Description |
 |-------|-------------|
-| `img/featured_window_example.png` | 8-subplot chart showing raw/MA/diff/spike for one CME |
-| `img/threshold_plots_summary.png` | Threshold behavior comparison across features (pre vs post CME) |
+| `cme_feature_1.png` | 8-subplot chart showing raw/MA/diff/spike for one CME |
+| `cme_feature_2.png` | Threshold behavior comparison across features (pre vs post CME) |
 
 ---
 
